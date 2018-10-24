@@ -21,11 +21,11 @@ npm i -g alfred-superscript
 - Everything after the keyword will be converted to superscript. Press <kbd>enter</kbd> to copy the superscripted result to the keyboard, or
 - Press <kbd>⌥</kbd> + <kbd>enter</kbd> to immediately paste to the underlying app.
 
-## License
+## 👨‍⚖️ License
 
 This project is licensed under the ISC License. See [LICENSE.md](LICENSE.md) for details.
 
-## Acknowledgements
+## 💫 Acknowledgements
 
 - This project uses [Sindre Sorhus](https://github.com/sindresorhus)' amazing tool [alfy](https://github.com/sindresorhus/alfy).
 - This project also uses [superscript-text](https://www.npmjs.com/package/superscript-text).
