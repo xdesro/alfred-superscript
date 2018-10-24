@@ -1,6 +1,6 @@
 {
   "name": "alfred-superscript",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Converts the provided text to superscript and copies it to the clipboard.",
   "main": "index.js",
   "scripts": {
