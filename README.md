@@ -29,3 +29,4 @@ This project is licensed under the ISC License. See [LICENSE.md](LICENSE.md) for
 
 - This project uses [Sindre Sorhus](https://github.com/sindresorhus)' amazing tool [alfy](https://github.com/sindresorhus/alfy).
 - This project also uses [superscript-text](https://www.npmjs.com/package/superscript-text).
+- [Seah](http://www.seahcb.com/) helped come up with the icon. She's the best.
