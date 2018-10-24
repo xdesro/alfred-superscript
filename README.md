@@ -1,4 +1,4 @@
-# 🎩👆 alfred-superscript
+# <img src="./icon.png" style="width:50px;"/> alfred-superscript
 
 An Alfred workflow for converting text to superscript.
 
