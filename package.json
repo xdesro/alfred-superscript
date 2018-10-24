@@ -8,12 +8,20 @@
     "preuninstall": "alfred-unlink"
   },
   "keywords": [],
+  "homepage": "https://github.com/xdesro/alfred-superscript",
+  "bugs": {
+    "url": "https://github.com/xdesro/alfred-superscript/issues"
+  },
   "author": {
     "name": "Henry Desroches",
     "email": "yo@henry.codes",
     "url": "https://henry.codes"
   },
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "github:xdesro/alfred-superscript"
+  },
   "dependencies": {
     "alfy": "^0.7.0",
     "superscript-text": "^1.0.0"
