@@ -1,0 +1,21 @@
+{
+  "name": "alfred-superscriptify",
+  "version": "1.0.0",
+  "description": "Converts the provided text to superscript and copies it to the clipboard.",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "alfred-link",
+    "preuninstall": "alfred-unlink"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Henry Desroches",
+    "email": "yo@henry.codes",
+    "url": "https://henry.codes"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "alfy": "^0.7.0",
+    "superscript-text": "^1.0.0"
+  }
+}
