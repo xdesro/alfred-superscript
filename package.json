@@ -23,7 +23,7 @@
     "url": "github:xdesro/alfred-superscript"
   },
   "dependencies": {
-    "alfy": "^0.7.0",
+    "alfy": "^0.9.1",
     "superscript-text": "^1.0.0"
   }
 }
